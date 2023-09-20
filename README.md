@@ -24,7 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="" border="10" /></a></td></tr>
 ## FAQs
 To instantiate the reconstructors, you don't have to load DNN weights separately and can directly pass the DNN paths at initialization. However, to prevent dependency issues with TensorFlow, you are recommended to first load the DNNs for 3D/2D U-Net and ResNet. The suggested initializations are given below:
 
-    from src import src
+    from src import src # source files will be included upon publication
     import numpy as np
     A = np.load('path_to_observation_matrix.npy') # Required for Deep2S and CV-Deep2S
    
