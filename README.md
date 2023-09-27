@@ -45,6 +45,8 @@ To instantiate the reconstructors, you don't have to load DNN weights separately
     reconstructor = src.Deep2SP(DNN='path_to_Deep2SP') # (not ".h5" file, "SavedModel" format)
     
 ## Citation
+Please cite the following paper when using this code or data:
+
     @unpublished{Manisali2023,
       author = "Manisali, Irfan and Oral, Okyanus and Oktem, Figen S.",
       title = "Efficient Physics-Based Learned Reconstruction Method for {3D} Near-Field {MIMO} Radar Imaging",
