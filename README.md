@@ -47,15 +47,15 @@ To instantiate the reconstructors, you don't have to load DNN weights separately
 ## Citation
 Please cite the following paper when using this code or data:
 
-@article{manisali2024efficient,
-title = {Efficient physics-based learned reconstruction methods for real-time 3D near-field MIMO radar imaging},
-journal = {Digital Signal Processing},
-volume = {144},
-pages = {104274},
-year = {2024},
-issn = {1051-2004},
-doi = {https://doi.org/10.1016/j.dsp.2023.104274},
-url = {https://www.sciencedirect.com/science/article/pii/S105120042300369X},
-author = {Irfan Manisali and Okyanus Oral and Figen S. Oktem}
-}
+    @article{manisali2024efficient,
+    title = {Efficient physics-based learned reconstruction methods for real-time 3D near-field MIMO radar imaging},
+    journal = {Digital Signal Processing},
+    volume = {144},
+    pages = {104274},
+    year = {2024},
+    issn = {1051-2004},
+    doi = {https://doi.org/10.1016/j.dsp.2023.104274},
+    url = {https://www.sciencedirect.com/science/article/pii/S105120042300369X},
+    author = {Irfan Manisali and Okyanus Oral and Figen S. Oktem}
+    }
 
