@@ -1,7 +1,7 @@
 # Efficient physics-based learned reconstruction methods for real-time 3D near-field MIMO radar imaging
 Irfan Manisalı, [Okyanus Oral](https://eee.metu.edu.tr/personel/okyanus-oral), and [Figen S. Oktem](https://blog.metu.edu.tr/figeno/) 
 
-This repository contains the official codes for the paper "[**Efficient physics-based learned reconstruction methods for real-time 3D near-field MIMO radar imaging**](https://www.sciencedirect.com/science/article/pii/S105120042300369X)".
+This repository contains the official codes for the paper "[**Efficient physics-based learned reconstruction methods for real-time 3D near-field MIMO radar imaging**](https://www.sciencedirect.com/science/article/pii/S105120042300369X)", Digital Signal Processing, vol. 144, pp. 104274, 2024, doi: 10.1016/j.dsp.2023.104274. ([arXiv](https://arxiv.org/abs/2312.16959)).
 
 <table>
 <tr><td>Experimental Results <a href="http://www.youtube.com/watch?feature=player_embedded&v=9qTrIXIPdVc">[YouTube]</a></td><td>Simulation Results <a href="http://www.youtube.com/watch?feature=player_embedded&v=Mg4YhEuxVL4">[YouTube]</a></td></tr>
